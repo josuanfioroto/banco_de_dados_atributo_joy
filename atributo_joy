@@ -1,0 +1,18 @@
+Entidade: Filme
+
+Atributos:
+- Título: atributo simples
+- Diretor: atributo simples
+- Gênero: atributo simples
+- Ano de Lançamento : atributo simples
+- Elenco: atributo multivalorado: pode incluir vários atores e atrizes
+- Classificação Indicativa: atributo simples
+- Duração: atributo composto: horas e minutos
+- Prêmios: atributo multivalorado: um filme pode ter ganhado diferentes prêmios ao longo do tempo
+- Trilha Sonora: atributo multivalorado: pode incluir várias músicas que compõem a trilha do filme
+
+Os atributos simples incluem dados básicos como título, diretor, gênero, ano de lançamento, classificação indicativa.
+
+O atributo multivalorado "Elenco" permite que múltiplos atores e atrizes sejam associados a um filme.
+A duração é um atributo composto, que agrupa horas e minutos para representar a extensão do filme.
+Os atributos "Prêmios" e "Trilha Sonora" são multivalorados, pois um filme pode ter recebido diferentes prêmios e incluir várias músicas em sua trilha sonora.
